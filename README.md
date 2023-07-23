@@ -4,7 +4,7 @@
   <h1>Hi there! 👋 I'm Deepakkumar P 🤖</h1>
   <p>📚 Data Science Aspirant 📈
 
-Welcome to my GitHub! This repository is a collection of my data science projects and explorations as I journey through the exciting world of data. From machine learning to data visualization, I'm enthusiastic about uncovering insights and solving real-world challenges using data-driven approaches. Feel free to explore my work, and I'm always open to feedback and collaboration! Let's learn and grow together in the fascinating field of data science. 🚀
+Welcome to my GitHub! This is a collection of my data science projects and explorations as I journey through the exciting world of data. From machine learning to data visualization, I'm enthusiastic about uncovering insights and solving real-world challenges using data-driven approaches. Feel free to explore my work, and I'm always open to feedback and collaboration! Let's learn and grow together in the fascinating field of data science. 🚀
 
 Happy coding! 😊</p>
   
