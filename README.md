@@ -12,6 +12,8 @@ Happy coding! 😊</p>
   <ol>
     <li>Project 1 :  <a href="https://github.com/Deepmessy/Kaggle-projects-">Kaggle Projects</a> </li>
     <li>Project 2 : <a href="https://github.com/Deepmessy/Penguin_dataset_-EDA-">EDA on Penguin Dataset</a> </li>
+    <li>Project 3 : <a href="https://github.com/Deepmessy/Spam-Email-classification-project">E-mail spam classification</a> </li>
+    <li>Project 4 :  <a href="https://github.com/Deepmessy/Tableau_dashboard_for-retail_Stores_Project">Tableau Dashboard for Online sales data</a> </li>
   </ol>
   
   <h2>🛠️ Tools and Technologies</h2>
