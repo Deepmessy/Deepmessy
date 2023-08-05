@@ -11,9 +11,9 @@ Happy coding! 😊</p>
   <h2>🛠️ Popular Repositories</h2>
   <ol>
     <li><a href="https://github.com/Deepmessy/Lung_disease_detector_project">Lung Disease Detector using Convolutional Neural Networks (CNN)</a> </li>
-    <li><a href="https://github.com/Deepmessy/Kaggle-projects-">Kaggle Projects</a> </li>
     <li><a href="https://github.com/Deepmessy/-Customer-Churn-Prediction-using-Artificial-Neural-Networks-ANN-">
 Customer Churn Prediction using Artificial Neural Networks (ANN)</a> </li>
+    <li><a href="https://github.com/Deepmessy/Kaggle-projects-">Kaggle Projects</a> </li>
     <li><a href="https://github.com/Deepmessy/Penguin_dataset_-EDA-">EDA on Penguin Dataset</a> </li>
     <li><a href="https://github.com/Deepmessy/Spam-Email-classification-project">E-mail spam classification</a> </li>
     <li><a href="https://github.com/Deepmessy/Tableau_dashboard_for-retail_Stores_Project">Tableau Dashboard for Online sales data</a> </li>
